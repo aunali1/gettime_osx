@@ -1,6 +1,8 @@
 gettime_osx
 ===========
 
+[![Build Status](https://travis-ci.org/aunali1/gettime_osx.svg?branch=master)](https://travis-ci.org/aunali1/gettime_osx)
+
 The missing clock_gettime function ported to Mac OS X/macOS and packaged
 as a library.
 
