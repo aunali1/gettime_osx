@@ -1,0 +1,10 @@
+language: c
+
+os:
+  - osx
+
+compiler:
+  - gcc
+
+script:
+  - make all
